@@ -1,0 +1,16 @@
+date,short_title,category,description,source
+2010-12-17,Arab Spring,Conflict,"Regional protests leading to supply disruptions in MENA region",https://en.wikipedia.org/wiki/Arab_Spring
+2011-02-15,Libyan Civil War,Conflict,"Civil war in Libya disrupts crude exports",https://en.wikipedia.org/wiki/Libyan_Civil_War
+2014-11-28,OPEC Production Decision,Policy,"OPEC decided not to cut production despite price decline",https://www.opec.org
+2015-07-14,Iran Nuclear Deal,Sanction,"Sanctions relief for Iran increases expected supply",https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action
+2016-11-30,OPEC Cut Agreement,Policy,"OPEC and non-OPEC nations agree to production cuts",https://www.opec.org
+2017-06-05,Qatar Diplomatic Crisis,Political,"Gulf states cut ties with Qatar, impacting OPEC unity",https://en.wikipedia.org/wiki/2017_Qatar_diplomatic_crisis
+2018-05-08,US Withdrawal from JCPOA,Sanction,"Reimposition of sanctions on Iran affecting exports",https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Joint_Comprehensive_Plan_of_Action
+2018-10-02,Khashoggi Murder Fallout,Political,"Diplomatic tensions affecting Saudi oil relations",https://en.wikipedia.org/wiki/Jamal_Khashoggi
+2019-09-14,Saudi Aramco Attack,Conflict,"Drone strikes on Abqaiq facility reduce output temporarily",https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack
+2020-03-06,OPEC+ Price War,Policy,"Breakdown of OPEC+ talks triggers price crash",https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war
+2020-03-11,COVID-19 Pandemic,Economic,"Global lockdowns sharply reduce demand",https://en.wikipedia.org/wiki/COVID-19_pandemic
+2021-11-26,Omicron Emergence,Economic,"New COVID variant renews demand fears",https://en.wikipedia.org/wiki/Omicron_variant
+2022-02-24,Russia-Ukraine War,Conflict,"Full-scale invasion drives global oil supply fears",https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine
+2022-03-08,US Ban on Russian Oil,Sanction,"U.S. bans Russian oil imports, tightening supply",https://en.wikipedia.org/wiki/Sanctions_against_Russia
+2015-01-01,China Economic Slowdown,Economic,"Reduced Chinese demand contributes to oil price weakness",https://en.wikipedia.org/wiki/2015%E2%80%9316_Chinese_stock_market_turbulence
