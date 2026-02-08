@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==1.25.2
+matplotlib==3.8.0
+statsmodels==0.14.0
+pymc==5.13.0
+arviz==0.15.1
+jupyterlab==4.1.0
+streamlit==1.22.0
+black==24.3.0
+flake8==6.1.0
